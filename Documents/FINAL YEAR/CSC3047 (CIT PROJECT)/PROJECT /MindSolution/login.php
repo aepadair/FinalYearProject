@@ -1,6 +1,10 @@
+
 <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!- updated to connect to my css ->
+<link href="css.css" rel="stylesheet" type="text/css"/>
+
 <!------ Include the above in your HEAD tag ---------->
 
 <section class="login-block">
@@ -26,11 +30,17 @@
       <small>Remember Me</small>
     </label>
     <button type="submit" class="btn btn-login float-right">Submit</button>
+    
+    
   </div>
   
 </form>
-<div class="copy-text">Created with <i class="fa fa-heart"></i> by <a href="http://grafreez.com">Grafreez.com</a></div>
-		</div>
+         
+                    
+                                 
+<div class="copy-text">Created with <i class="fa fa-heart"></i> by <a href="https://goo.gl/images/9P9iGk">Grafreez.com</a></div>
+		</div
+                <img src="/images/happyschool.jpg">
 		<div class="col-md-8 banner-sec">
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                  <ol class="carousel-indicators">
@@ -40,11 +50,13 @@
                   </ol>
             <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
-      <img class="d-block img-fluid" src="https://static.pexels.com/photos/33972/pexels-photo.jpg" alt="First slide">
+      <img class="d-block img-fluid" src="ttps://goo.gl/images/9P9iGk" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <div class="banner-text">
-            <h2>This is Heaven</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+           <!-changed for my project 
+            <h2> MY WELLNESS</h2>
+            <img src= "/images/hello.png" alt="Flowers in Chania">
+            <p> "When you have a dozen of reasons to smile, don't let one make you frown" </p>
         </div>	
   </div>
     </div>
@@ -72,3 +84,5 @@
 	</div>
 </div>
 </section>
+
+
